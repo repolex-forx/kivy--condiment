@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/condiment/commit/64727710aec95cc52d00bff9b27807473f0bc70f",
       "git:hexsha": "64727710aec95cc52d00bff9b27807473f0bc70f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/condiment/commit/b36eec37a2005845088e4429d408a13f7e84fd92",
